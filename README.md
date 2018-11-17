@@ -2,11 +2,11 @@
 pytorch tutorials
 
 
-## Pytorch_challenge_udacity
+## Pytorch fb Challenge Udacity
 
-This directory is source of "PyTorch Scholarship Challenge Nanodegree Program"
+This directory is source of "PyTorch Scholarship Challenge Nanodegree Program" by Facebook
 
 
-## GAN_Paper_Implementation
+## GAN Paper Implementation
 
 pytorch code of papers related Generative Adversarial Networks
